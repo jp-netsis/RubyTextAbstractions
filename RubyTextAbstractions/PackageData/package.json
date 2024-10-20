@@ -1,0 +1,22 @@
+{
+  "name": "jp.netsis.rubytext.abstractions",
+  "version": "0.1.0",
+  "displayName": "Ruby Text Abstractions",
+  "description": "Abstract functions ruby text",
+  "unity": "6000.0",
+  "documentationUrl": "https://github.com/jp-netsis/RubyTextAbstractions",
+  "changelogUrl": "https://github.com/jp-netsis/RubyTextAbstractions/release",
+  "licensesUrl": "https://github.com/jp-netsis/RubyTextAbstractions/blob/main/LICENSE",
+  "dependencies": {
+  },
+  "keywords": [
+    "Ruby",
+    "Furigana",
+    "Text"
+  ],
+  "author": {
+    "name": "netsis.jp",
+    "email": "netsis.jenomoto@gmail.com",
+    "url": "https://github.com/jp-netsis"
+  }
+}
