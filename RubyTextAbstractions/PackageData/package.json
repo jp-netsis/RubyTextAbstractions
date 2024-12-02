@@ -1,6 +1,6 @@
 {
   "name": "jp.netsis.rubytext.abstractions",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "displayName": "Ruby Text Abstractions",
   "description": "Abstract functions ruby text",
   "unity": "6000.0",
