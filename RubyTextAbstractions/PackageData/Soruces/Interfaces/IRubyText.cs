@@ -25,6 +25,8 @@ namespace jp.netsis.RubyText
         // ruby show type.
         public RubyTextConstants.RubyShowType rubyShowType { get; }
         public float rubyMargin { get; }
+        
+        public string uneditedText { get; set; }
         #endregion
 
     }
